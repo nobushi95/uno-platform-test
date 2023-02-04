@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HelloWorld.Windows": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

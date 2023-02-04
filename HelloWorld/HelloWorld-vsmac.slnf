@@ -1,0 +1,15 @@
+{
+  "solution": {
+    "path": "HelloWorld.sln",
+    "projects": [
+		"HelloWorld\\HelloWorld.csproj",
+
+
+		"HelloWorld.Wasm\\HelloWorld.Wasm.csproj",
+
+		"HelloWorld.Skia.Gtk\\HelloWorld.Skia.Gtk.csproj",
+
+		"HelloWorld.Skia.Gtk\\HelloWorld.Skia.Gtk.csproj",
+    ]
+  }
+}
