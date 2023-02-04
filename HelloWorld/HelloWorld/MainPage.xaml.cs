@@ -26,5 +26,11 @@ namespace HelloWorld
         {
             this.InitializeComponent();
         }
+
+        private void OnButtonClicked()
+        {
+            var dt = DateTime.Now.ToString();
+            textBlock.Text = dt;
+        }
     }
 }
